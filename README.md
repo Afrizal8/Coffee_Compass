@@ -1,7 +1,7 @@
 <h1 align="center">☕ Coffee Compass</h1>
 
 <p align="center">
-  <em>Temukan kopi terbaik di sekitar Anda – cepat, mudah, dan bergaya.</em>
+  <em>Latihan Flutter themed app.</em>
 </p>
 
 ---
@@ -39,3 +39,4 @@
 <p align="center">
   <b>Made by <a href="https://github.com/afrizal8">afrizal8</a></b>
 </p>
+
