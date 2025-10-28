@@ -21,14 +21,6 @@
 
 ---
 
-## 🚀 Fitur Utama
-- 🔍 Pencarian kopi berdasarkan lokasi  
-- ❤️ Simpan kopi favorit  
-- 🪶 Desain minimalis dan responsif  
-- ☁️ Data dinamis dari sumber online  
-
----
-
 ## 🛠️ Teknologi
 | Platform | Bahasa | Framework |
 |-----------|---------|------------|
@@ -39,4 +31,5 @@
 <p align="center">
   <b>Made by <a href="https://github.com/afrizal8">afrizal8</a></b>
 </p>
+
 
